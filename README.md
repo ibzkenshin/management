@@ -1,5 +1,5 @@
 # management system!!!
-고객 관리 시스템 테스트 입니다. 오오오 굳
+고객 관리 시스템 테스트 입니다. 오오오 굳ㄹㄹ왜 안넘어가냐
 
 # Getting Started with Create React App
 
@@ -7,7 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, you can run:ㅇㄻㄴㅇㄹ
 
 ### `npm start`
 
