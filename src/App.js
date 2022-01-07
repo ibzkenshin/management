@@ -31,7 +31,7 @@ class App extends Component {
         <img src={logo} lat="logo" />
         <h2>Let's develop management 1system!!ddafafa!!!
 
-          연습용111
+          연습용11142342
         </h2>
       </div>
     );
