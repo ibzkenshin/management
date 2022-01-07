@@ -1,5 +1,5 @@
 # management system!!!
-고객 관리 시스템 테스트 입니다. 오오오 굳ㄹㄹ왜 안넘어가냐
+고객 관리 시스템 테스트 입니다. 잘되나요
 
 # Getting Started with Create React App
 
