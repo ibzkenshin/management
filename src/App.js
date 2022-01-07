@@ -29,9 +29,9 @@ class App extends Component {
     return (
       <div className="gray-background">
         <img src={logo} lat="logo" />
-        <h2>Let's develop management 1system!!!!!
+        <h2>Let's develop management 1system!!ddafafa!!!
 
-          연습용
+          연습용111
         </h2>
       </div>
     );
